@@ -1,0 +1,48 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.3"
+
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles 'consumer-rules.pro'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    implementation(name:'ads-banner-13.4.28.305', ext:'aar')
+    implementation(name:'ads-base-13.4.28.305', ext:'aar')
+    implementation(name:'ads-consent-3.4.28.305', ext:'aar')
+    implementation(name:'ads-interstitial-13.4.28.305', ext:'aar')
+    implementation(name:'ads-lang-13.4.28.305', ext:'aar')
+    implementation(name:'ads-lite-13.4.28.305', ext:'aar')
+    implementation(name:'ads-native-13.4.28.305', ext:'aar')
+    implementation(name:'ads-reward-13.4.28.305', ext:'aar')
+    implementation(name:'ads-template-13.4.28.305', ext:'aar')
+}
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}

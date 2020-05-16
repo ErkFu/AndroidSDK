@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="taurusx_ads_native_adchoices_layout" type="id"/>
+    <item name="taurusx_ads_native_advertiser_text" type="id"/>
+    <item name="taurusx_ads_native_body_text" type="id"/>
+    <item name="taurusx_ads_native_calltoaction_text" type="id"/>
+    <item name="taurusx_ads_native_icon_layout" type="id"/>
+    <item name="taurusx_ads_native_mediaview_layout" type="id"/>
+    <item name="taurusx_ads_native_mixfull_close" type="id"/>
+    <item name="taurusx_ads_native_price_text" type="id"/>
+    <item name="taurusx_ads_native_rating_text" type="id"/>
+    <item name="taurusx_ads_native_ratingbar" type="id"/>
+    <item name="taurusx_ads_native_store_text" type="id"/>
+    <item name="taurusx_ads_native_subtitle_text" type="id"/>
+    <item name="taurusx_ads_native_title_text" type="id"/>
+</resources>

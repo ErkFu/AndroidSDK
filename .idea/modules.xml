@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HuaweiAdsSdk_Demo.iml" filepath="$PROJECT_DIR$/HuaweiAdsSdk_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deeplink/deeplink.iml" filepath="$PROJECT_DIR$/deeplink/deeplink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashkey/hashkey.iml" filepath="$PROJECT_DIR$/hashkey/hashkey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huaweisdk/huaweisdk.iml" filepath="$PROJECT_DIR$/huaweisdk/huaweisdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newrangeapp/newrangeapp.iml" filepath="$PROJECT_DIR$/newrangeapp/newrangeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rangersapp/rangersapp.iml" filepath="$PROJECT_DIR$/rangersapp/rangersapp.iml" />
+    </modules>
+  </component>
+</project>

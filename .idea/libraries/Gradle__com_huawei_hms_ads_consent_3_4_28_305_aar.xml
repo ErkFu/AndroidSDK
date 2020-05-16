@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:ads-consent:3.4.28.305@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6faff4b761e2357ab7ece80f74857024/jetified-ads-consent-3.4.28.305/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6faff4b761e2357ab7ece80f74857024/jetified-ads-consent-3.4.28.305/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

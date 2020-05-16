@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.bytedance.applog:RangersAppLog-Lite-cn:4.2.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9344f27e32aa907270e5ce807e6f0279/jetified-RangersAppLog-Lite-cn-4.2.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9344f27e32aa907270e5ce807e6f0279/jetified-RangersAppLog-Lite-cn-4.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9344f27e32aa907270e5ce807e6f0279/jetified-RangersAppLog-Lite-cn-4.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9344f27e32aa907270e5ce807e6f0279/jetified-RangersAppLog-Lite-cn-4.2.1/jars/libs/r-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

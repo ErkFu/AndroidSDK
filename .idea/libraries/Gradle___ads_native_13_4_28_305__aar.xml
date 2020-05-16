@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :ads-native-13.4.28.305:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6a8a146a8ec96f614c67aa3ab9f3de0/ads-native-13.4.28.305/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e6a8a146a8ec96f614c67aa3ab9f3de0/ads-native-13.4.28.305/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

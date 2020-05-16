@@ -1,0 +1,2 @@
+include ':app', ':huaweisdk', ':hashkey', ':rangersapp', ':newrangeapp', ':deeplink'
+rootProject.name='HuaweiAdsSdk_Demo'

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Vindu lukkes om %1$s sekund."</item>
+    <item priority="translator" quantity="other">"Vindu lukkes om %1$s sekunder."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Husk valget i %1$s dag"</item>
+    <item priority="Reviewed" quantity="other">"Husk valget i %1$s dager"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d sek."</item>
+    <item priority="LT" quantity="other">"%1$d sek."</item>
+</plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Naviger hjem"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"AV"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"PÅ"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"slett"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Funksjon+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"mellomrom"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Meny+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Søk"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="hiad_ad_label" priority="translator">"Reklame"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Reklame"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s er installert"</string>
+    <string name="hiad_app_permission" priority="LT">"Tillatelser"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Annonse skjult"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Ikke interessert"</string>
+    <string name="hiad_choices_hide" priority="LT">"Skjul annonse"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Hvorfor så jeg denne annonsen?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Bruk av mobildata vil forbruke %1$s data. Fortsette?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Avspilling vil konsumere mobildata. Fortsette?"</string>
+    <string name="hiad_continue_download" priority="LT">"Last ned"</string>
+    <string name="hiad_continue_download_new" priority="LT">"LAST NED"</string>
+    <string name="hiad_continue_to_play" priority="LT">"FORTSETT"</string>
+    <string name="hiad_copy_link" priority="LT">"Kopier lenke"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"App"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Hopp over"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Hopp over om %d"</string>
+    <string name="hiad_detail" priority="LT">"Detaljer"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Last ned"</string>
+    <string name="hiad_dialog_accept" priority="LT">"TILLAT"</string>
+    <string name="hiad_dialog_allow" priority="LT">"TILLAT"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"AVBRYT"</string>
+    <string name="hiad_dialog_close" priority="LT">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"LAST NED"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"SKJØNNER"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Tillat at %1$s installerer %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Kilde: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"TILLAT"</string>
+    <string name="hiad_dialog_open" priority="LT">"ÅPNE"</string>
+    <string name="hiad_dialog_reject" priority="LT">"IKKE TILLAT"</string>
+    <string name="hiad_dialog_title" priority="LT">"Last ned med mobildata?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Merk"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Laste ned med mobildata?"</string>
+    <string name="hiad_download_download" priority="LT">"LAST NED"</string>
+    <string name="hiad_download_download_with_size" priority="LT">"LAST NED (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"En feil oppstod under nedlastingen av %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Filen er skadet. Last ned på nytt."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Filen eksisterer ikke. Prøv igjen."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALLER"</string>
+    <string name="hiad_download_installing" priority="LT">"INSTALLERER"</string>
+    <string name="hiad_download_no_space" priority="LT">"Ikke nok lagringsplass. Frigjør litt plass, og prøv igjen."</string>
+    <string name="hiad_download_open" priority="LT">"ÅPNE"</string>
+    <string name="hiad_download_resume" priority="LT">"FORTSETT"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"En feil oppstod under nedlastingen av %1$s. Nedlastingen vil starte på nytt."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Du er ikke tilkoblet Wi-Fi i øyeblikket. Hvis du laster ned nå forbrukes %1$s mobildata. Laste ned likevel?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Du er ikke tilkoblet WLAN i øyeblikket. Hvis du laster ned nå forbrukes %1$s mobildata. Laste ned likevel?"</string>
+    <string name="hiad_install_completed" priority="LT">"Ferdig"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Denne siden ønsker å åpne %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Lenke kopiert."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Denne nedlastingen vil bruke %1$s av mobildata."</string>
+    <string name="hiad_network_error" priority="LT">"Feil ved nettverkstilkobling."</string>
+    <string name="hiad_network_no_available" priority="LT">"Ingen Internett-tilkobling. Kontroller dine nettverksinnstillinger."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Ikke minn meg på det"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Ingen Wi-Fi-forbindelse. Hvis du laster ned nå, forbrukes mobildata. Laste ned?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Ingen WLAN-forbindelse. Hvis du laster ned nå, forbrukes mobildata. Laste ned?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Åpne i nettleser"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Kunne ikke laste inn siden. Prøv igjen."</string>
+    <string name="hiad_permission_dialog_title" priority="LT">"%1$s krever følgende tillatelser:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Vent på Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Laste ned over mobilnett?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Vent på WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Personvernerklæring"</string>
+    <string name="hiad_refresh" priority="LT">"Oppdater"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"App større enn %1$d MB"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Hopp over"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Fortsette å se"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Se denne reklamen ferdig for å få en belønning."</string>
+    <string name="hiad_whether_download" priority="LT">"Laste ned denne appen?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Forhåndsinnlastet over Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Forhåndsinnlastet"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Søk"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

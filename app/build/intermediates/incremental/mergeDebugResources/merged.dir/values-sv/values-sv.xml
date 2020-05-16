@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hiad_dismiss_dilaog">
+    <item priority="translator" quantity="one">"Fönstret stängs om %1$s sekund."</item>
+    <item priority="translator" quantity="other">"Fönstret stängs om %1$s sekunder."</item>
+</plurals>
+    <plurals name="hiad_no_prompt_in_days">
+    <item priority="Reviewed" quantity="one">"Kom ihåg valet i %1$s dag"</item>
+    <item priority="Reviewed" quantity="other">"Kom ihåg valet i %1$s dagar"</item>
+</plurals>
+    <plurals name="hiad_reward_countdown">
+    <item priority="LT" quantity="one">"%1$d s"</item>
+    <item priority="LT" quantity="other">"%1$d s"</item>
+</plurals>
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Navigera hem"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Klar"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"AV"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"PÅ"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt + "</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl + "</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"retur"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Funktion + "</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta + "</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Skift + "</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"blanksteg"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Symbol + "</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Meny + "</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Sök …"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="hiad_ad_label" priority="translator">"AD"</string>
+    <string name="hiad_ad_label_new" priority="translator">"Annons"</string>
+    <string name="hiad_app_installed" priority="LT">"%1$s har installerats"</string>
+    <string name="hiad_app_permission" priority="LT">"Behörigheter"</string>
+    <string name="hiad_choices_ad_closed" priority="LT">"Annons dold"</string>
+    <string name="hiad_choices_ad_no_interest" priority="translator">"Inte intresserad"</string>
+    <string name="hiad_choices_hide" priority="translator">"Dölj annons"</string>
+    <string name="hiad_choices_whythisad" priority="LT">"Varför såg jag denna annons?"</string>
+    <string name="hiad_consume_data_to_play_video" priority="LT">"Användning av ett mobilnät förbrukar %1$s data. Fortsätt?"</string>
+    <string name="hiad_consume_data_to_play_video_no_data_size" priority="LT">"Uppspelning använder mobildata. Vill du fortsätta?"</string>
+    <string name="hiad_continue_download" priority="LT">"Ladda ned"</string>
+    <string name="hiad_continue_download_new" priority="LT">"LADDA NED"</string>
+    <string name="hiad_continue_to_play" priority="LT">"FORTSÄTT"</string>
+    <string name="hiad_copy_link" priority="LT">"Kopiera länk"</string>
+    <string name="hiad_data_size_prompt" priority="translator">"%1$s MB"</string>
+    <string name="hiad_default_app_name" priority="LT">"App"</string>
+    <string name="hiad_default_skip_text" priority="LT">"Hoppa över"</string>
+    <string name="hiad_default_skip_text_time" priority="LT">"Hoppa över om %d"</string>
+    <string name="hiad_detail" priority="LT">"Detaljer"</string>
+    <string name="hiad_detail_download_now" priority="LT">"Ladda ned"</string>
+    <string name="hiad_dialog_accept" priority="translator">"TILLÅT"</string>
+    <string name="hiad_dialog_allow" priority="LT">"TILLÅT"</string>
+    <string name="hiad_dialog_cancel" priority="LT">"AVBRYT"</string>
+    <string name="hiad_dialog_close" priority="translator">"OK"</string>
+    <string name="hiad_dialog_continue" priority="LT">"LADDA NED"</string>
+    <string name="hiad_dialog_dismiss" priority="LT">"JAG FÖRSTÅR"</string>
+    <string name="hiad_dialog_install_desc" priority="LT">"Tillåt %1$s att installera %2$s?"</string>
+    <string name="hiad_dialog_install_source" priority="LT">"Källa: %1$s"</string>
+    <string name="hiad_dialog_ok" priority="LT">"TILLÅT"</string>
+    <string name="hiad_dialog_open" priority="LT">"ÖPPNA"</string>
+    <string name="hiad_dialog_reject" priority="LT">"NEKA"</string>
+    <string name="hiad_dialog_title" priority="LT">"Ladda ned via mobildata?"</string>
+    <string name="hiad_dialog_title_tip" priority="LT">"Obs!"</string>
+    <string name="hiad_download_app_via_mobile_data" priority="LT">"Vill du ladda ned med mobildata?"</string>
+    <string name="hiad_download_download" priority="LT">"LADDA NED"</string>
+    <string name="hiad_download_download_with_size" priority="translator">"LADDA NED (%1$s)"</string>
+    <string name="hiad_download_failed_toast_content" priority="LT">"Ett fel uppstod vid nedladdning av %1$s."</string>
+    <string name="hiad_download_file_corrupted" priority="translator">"Filen är skadad. Ladda ned den igen."</string>
+    <string name="hiad_download_file_not_exist" priority="LT">"Filen finns inte. Försök igen."</string>
+    <string name="hiad_download_install" priority="LT">"INSTALLERA"</string>
+    <string name="hiad_download_installing" priority="translator">"INSTALLERAR"</string>
+    <string name="hiad_download_no_space" priority="LT">"Otillräckligt lagringsutrymme. Frigör utrymme och försök igen."</string>
+    <string name="hiad_download_open" priority="LT">"ÖPPNA"</string>
+    <string name="hiad_download_resume" priority="LT">"FORTSÄTT"</string>
+    <string name="hiad_download_retry_toast_content" priority="LT">"Ett fel uppstod vid nedladdning av %1$s. Nedladdningen startas om."</string>
+    <string name="hiad_download_use_mobile_network" priority="LT">"Du är för närvarande inte ansluten till Wi-Fi Om du laddar ned nu kommer %1$s mobildata att användas. Ladda ned ändå?"</string>
+    <string name="hiad_download_use_mobile_network_zh" priority="LT">"Du är för närvarande inte ansluten till WLAN. Om du laddar ned nu kommer %1$s mobildata att användas. Ladda ned ändå?"</string>
+    <string name="hiad_install_completed" priority="LT">"Färdig"</string>
+    <string name="hiad_landing_page_open_app" priority="LT">"Den här sidan vill öppna %1$s."</string>
+    <string name="hiad_link_already_copied" priority="LT">"Länk kopierad."</string>
+    <string name="hiad_mobile_download_prompt" priority="LT">"Denna nedladdning förbrukar %1$s mobildata."</string>
+    <string name="hiad_network_error" priority="LT">"Nätverksanslutningsfel."</string>
+    <string name="hiad_network_no_available" priority="LT">"Ingen internetanslutning. Kontrollera nätverksinställningarna."</string>
+    <string name="hiad_no_more_remind" priority="LT">"Påminn mig inte igen"</string>
+    <string name="hiad_non_wifi_download_prompt" priority="LT">"Ingen Wi-Fi-anslutning. Om du laddar ner nu förbrukar det dina mobildata. Vill du ladda ned?"</string>
+    <string name="hiad_non_wifi_download_prompt_zh" priority="LT">"Ingen WLAN-anslutning. Om du laddar ner nu förbrukar det dina mobildata. Vill du ladda ned?"</string>
+    <string name="hiad_open_in_browser" priority="LT">"Öppna i webbläsare"</string>
+    <string name="hiad_page_load_failed" priority="LT">"Kan inte hämta sida. Försök igen."</string>
+    <string name="hiad_permission_dialog_title" priority="translator">"%1$s kräver följande behörigheter:"</string>
+    <string name="hiad_prepare_download" priority="LT">"Vänta på Wi-Fi"</string>
+    <string name="hiad_prepare_download_title" priority="LT">"Vill du ladda ned via mobilnätverk?"</string>
+    <string name="hiad_prepare_download_zh" priority="LT">"Vänta på WLAN"</string>
+    <string name="hiad_privacy_policy" priority="LT">"Sekretesspolicy"</string>
+    <string name="hiad_refresh" priority="LT">"Uppdatera"</string>
+    <string name="hiad_reminder_app_over_size" priority="LT">"App större än %1$d MB"</string>
+    <string name="hiad_reward_close_dialog_close" priority="LT">"Hoppa över"</string>
+    <string name="hiad_reward_close_dialog_continue" priority="LT">"Fortsätt titta"</string>
+    <string name="hiad_reward_close_dialog_message" priority="LT">"Titta klart på den här annonsen för att få en belöning."</string>
+    <string name="hiad_whether_download" priority="LT">"Vill du ladda ned den här appen?"</string>
+    <string name="hiad_wifi_loaded_already" priority="translator">"Förinstallerad över Wi-Fi"</string>
+    <string name="hiad_wifi_loaded_already_zh" priority="translator">"Förinläst"</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Sök"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

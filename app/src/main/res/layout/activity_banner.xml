@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_outer"
+    android:layout_width="260dp"
+    android:layout_height="140dp"
+    android:background="@android:color/transparent">
+
+    <!-- MediaView Layout -->
+    <FrameLayout
+        android:id="@id/taurusx_ads_native_mediaview_layout"
+        android:layout_width="260dp"
+        android:layout_height="140dp"
+        />
+
+    <!-- AdChoices Layout -->
+    <FrameLayout
+        android:id="@id/taurusx_ads_native_adchoices_layout"
+        android:layout_width="20dp"
+        android:layout_height="20dp" />
+
+    <!-- 广告主名称 -->
+    <TextView
+        android:id="@id/taurusx_ads_native_advertiser_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/taurusx_ads_native_mediaview_layout"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:paddingStart="0dp"
+        android:paddingLeft="0dp"
+        android:paddingEnd="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="6dp"
+        android:textColor="#000000"
+        android:textSize="14dp" />
+
+    <LinearLayout
+        android:id="@+id/layout_info"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/taurusx_ads_native_mediaview_layout"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginRight="12dp"
+        android:baselineAligned="false"
+        android:gravity="center_vertical"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal">
+
+        <!-- 图标 -->
+        <FrameLayout
+            android:id="@id/taurusx_ads_native_icon_layout"
+            android:layout_width="28.8dp"
+            android:layout_height="28.8dp"
+            android:layout_marginEnd="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_weight="0" />
+
+        <!-- TextLayout -->
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <!-- 标题 -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="bottom"
+                android:orientation="horizontal">
+
+                <!-- 应用评分 -->
+                <RatingBar
+                    android:id="@id/taurusx_ads_native_ratingbar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:isIndicator="true"
+                    android:minWidth="6dp"
+                    android:minHeight="6dp"
+                    android:numStars="5"
+                    android:progressDrawable="@drawable/taurusx_ads_ratingbar_progress" />
+
+                <!-- 应用评分 -->
+                <TextView
+                    android:id="@id/taurusx_ads_native_rating_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingStart="3.6dp"
+                    android:paddingLeft="3.6dp"
+                    android:paddingEnd="0dp"
+                    android:paddingRight="0dp"
+                    android:textColor="#FF9E9E9E"
+                    android:textSize="5.4dp" />
+            </LinearLayout>
+
+            <!-- 副标题 -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <!-- 应用来源 -->
+                <TextView
+                    android:id="@id/taurusx_ads_native_store_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="3.6dp"
+                    android:layout_marginRight="3.6dp"
+                    android:textColor="#FF9E9E9E"
+                    android:textSize="6.6dp" />
+
+                <!-- 应用价格 -->
+                <TextView
+                    android:id="@id/taurusx_ads_native_price_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#FF9E9E9E"
+                    android:textSize="6.6dp" />
+            </LinearLayout>
+
+            <!-- 描述 -->
+            <TextView
+                android:id="@id/taurusx_ads_native_body_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FF757575"
+                android:textSize="7.2dp" />
+
+            <!-- RatingLayout -->
+            <TextView
+                android:id="@id/taurusx_ads_native_title_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FF212121"
+                android:textSize="10.8dp"
+                android:textStyle="bold" />
+
+            <!-- StoreLayout -->
+            <TextView
+                android:id="@id/taurusx_ads_native_subtitle_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FF757575"
+                android:textSize="7.2dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- 按钮 -->
+    <Button
+        android:id="@id/taurusx_ads_native_calltoaction_text"
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/layout_info"
+        android:layout_marginLeft="9.6dp"
+        android:layout_marginTop="9.6dp"
+        android:layout_marginRight="9.6dp"
+        android:layout_marginBottom="8.4dp"
+        android:background="@drawable/taurusx_ads_native_button_bg"
+        android:textColor="#FFFFFF"
+        android:layout_centerInParent="true"
+        android:textSize="8.4dp"
+        android:textStyle="bold" />
+</RelativeLayout>
